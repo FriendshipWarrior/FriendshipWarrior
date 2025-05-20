@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @FriendshipWarrior
-- 👀 I’m interested in native app development
-- 🌱 I’m currently learning Android in Kotlin
